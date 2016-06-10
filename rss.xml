@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[ROXY PHOENIX]]></title>
         <description><![CDATA[ROXY PHOENIX]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/roxy-phoenix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 21:48:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 10 Jun 2016 21:50:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/roxy-phoenix/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/12794515_1698547747058883_3266991996693990695_n.jpg?oh=317ad57bb903c2db311b2e700481848d&oe=57C5E623">]]></description>
+            <link>https://thegrid.ai/roxy-phoenix/f209ab1c-d09c-488c-85ca-03ea608581e7/index.html</link>
+            <guid isPermaLink="false">f209ab1c-d09c-488c-85ca-03ea608581e7</guid>
+            <pubDate>Fri, 10 Jun 2016 21:50:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="silk #silkspider #cindymoon" src="https://scontent.xx.fbcdn.net/v/t1.0-0/p480x480/12801673_1698794693700855_4198846419930216772_n.jpg?oh=31f5a711a8312994d91b6a937ea5f9da&oe=5807C7BE">]]></description>
